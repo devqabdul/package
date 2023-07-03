@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devqabdul/npm-module.git"
+  },
+  "keywords": [
+    "Demo"
+  ],
+  "author": "Demo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devqabdul/npm-module/issues"
+  },
+  "homepage": "https://github.com/devqabdul/npm-module#readme"
+}
